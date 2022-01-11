@@ -1,1 +1,4 @@
-
+button:hover {
+    transition: 2s;
+    color: ghostwhite;
+}
